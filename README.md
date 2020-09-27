@@ -1,5 +1,5 @@
 # Fabam-caeli
-Vue.js, vuex, nodejs, lowdb, Frontend with backend-server, sass,axios m.m.
+Project-name: Air-Bean. Build with Vue.js, vueX, nodejs, lowdb, Frontend with backend-server, sass,axios m.m.
 # air-bean
 **used in this project: axios**
 ## Project setup
