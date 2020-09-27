@@ -1,0 +1,87 @@
+{
+  "coffeemenu": [
+    {
+      "id": 1,
+      "title": "Bryggkaffe",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 39
+    },
+    {
+      "id": 2,
+      "title": "Caffè Doppio",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 3,
+      "title": "Cappuccino",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 4,
+      "title": "Latte Macchiato",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 49
+    },
+    {
+      "id": 5,
+      "title": "Kaffe Latte",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 54
+    },
+    {
+      "id": 6,
+      "title": "Cortado",
+      "desc": "Bryggd på månadens bönor.",
+      "price": 39
+    }
+  ],
+  "orders": [
+    {
+      "orderNr": "6QOI0C4ID27092020T193412",
+      "key": "aa317a61-e55d-4d46-896b-d8a00d621982",
+      "items": [
+        {
+          "product": {
+            "id": 1,
+            "title": "Bryggkaffe",
+            "desc": "Bryggd på månadens bönor.",
+            "price": 39
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 2,
+            "title": "Caffè Doppio",
+            "desc": "Bryggd på månadens bönor.",
+            "price": 49
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 3,
+            "title": "Cappuccino",
+            "desc": "Bryggd på månadens bönor.",
+            "price": 49
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": 5,
+            "title": "Kaffe Latte",
+            "desc": "Bryggd på månadens bönor.",
+            "price": 54
+          },
+          "quantity": 6
+        }
+      ],
+      "totalOrderValue": 461,
+      "eta": 5
+    }
+  ],
+  "count": 0
+}
